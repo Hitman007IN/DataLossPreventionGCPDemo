@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "divine-ceremony-225408",
+  "private_key_id": "4de0642a7092c73334494c0db278e020eb47d238",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxIWhwJTJqjHu+\nt5yF/KG9ajsKxgCQefPVuchrFFoiK+xUGx3ezFdpUjYhIoJajDtuoA+B7yjRyYZd\ndFFSGHiiY2QYChbLgSLj6SAebmW1Zhy86BWzRNfjyZImFPer1sffTEx0TQ4mE3xL\ntFfgwhyhiIg981mKtCd/GmiTkApz3So1RfQ0HqjY+LdjQwsSWSu4mZUT0jERjTWq\nlpLKVJECe38G5UW2CNUCg503lQbbxKkB4vU+66RyiggQn9aQjtmGmC2zzvTtNrr9\nrI2vXPfGDUx/IrMNE59Ewrhr23rN3dvNSWJX2xDtOSrsoFfe8rH9LHkvKiCHujhO\nTzOFQ+V9AgMBAAECggEABnyStoimMAC1B2bx9HYr9iPNxbc6jg/pPgpvrHwyUM4K\n+YmEroQNL24zTUNWQrqf8o0qBDgd5pDautFnqPn8cPXy1G6KJymzfWUsJ/EjCGGU\n69YT9VywC0d2cq6R41kaOLMymY+41OwhwSP5k+GH6uJ1Gs+ul8XBLIZrDfxYZaXE\nAaGCXVNVhMLTRZnL8L6Jkn08P9GEOzNv6/3j/QXGKw9zXLGefotq5u7+yb6ZlxGd\nMWG6MyP+/WSlDTnvVzM2+FSrX6nBqGku8sZOH4UqXRfuh4zXD6OYWYNh3yzxNAYk\nZsq7Qw4mwjikMnrxF+pNgvlB5JMz14oqSejB99sWgQKBgQD20oXmhUy4tLCiYXoW\norDj6fTSMr0oR5HOnqjywKSVVgjiiNh+pfBCLQy44KWqoSYEGcdsBW0i0nc/3TpQ\nQs27Znxr8jBxrVYCqpsTP1od2jhk7B99OdOrGsXjjB6CPuG8/mSZ2M3UPpLlnuhg\njE6OAGpchwOCupF58jwCmEhDJwKBgQC3t37GII8THkWEv4mkzhzwqF7sJ0s3OBjv\npA4Nzp6Telri4IFYHLEqefSTMaq854EtHtYItJENbHxVp47ZzzA/Bvk6d69wPriu\nhABQ2y4rmaq0bfW0fnyKqLx4cO5sgkEx6JYOtKk0G/Ct7jy0dUP9Bka2fPDP2wZq\nTGPYHRVouwKBgA31FbFVdGM1hI+KJ5dEF/CreDayu9OdSHeArVkc37G6LcJxrpxq\n0c1MMt35hiTB/B5bPtWy8Nr5P9kSr4t+W5fvUbXg+jBTdvurnh1WhcgOYQYD/Dve\nm0OfvfUCJW+EEsvXLuUsR2drKm9lrwpWpNKO33TgBajM2BEnS5Fx/xQdAoGBAIkE\nc6p0sgCCPTrqV0/w4Sijilf6XmCKmB5yboDhruczBAHditoaXA/f8QaurjZBOthZ\n/St08BHg7UI8u4+6tLLtEogGp3PBc5/Ely+2qFKgQu5abDv3cg9AFYCGSWvoIZOF\nchT5rJBOnkw6OFAmfVSCj86elEORiNFSs8yEtGjtAoGAP1QZYfELTsQf6lLBRFyc\ngbTg7EExSqO4AlcpEl/5R5o0pu5Nx5ymW4dTXHEZmeaSIA9P/Tv57iwEKI17xUr8\nj1FMOMhCafiTP8CgZH89YRwc6lrcKiSrCY7OQZEnKeRcx/g+fxEpSm32swdaoUec\ndaL8xDEH7+tpeCUbe0Z12V0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bucket-access@divine-ceremony-225408.iam.gserviceaccount.com",
+  "client_id": "116223101624889751867",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucket-access%40divine-ceremony-225408.iam.gserviceaccount.com"
+}
